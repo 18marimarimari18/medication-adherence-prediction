@@ -22,3 +22,10 @@ Random Forest: To capture non-linear interactions between socioeconomic features
 📝 About the ResearcherI am a Health Data Scientist focused on using machine learning to solve systemic inequities in healthcare access. This project was developed as part of my work at the University of Waterloo, driven by the intersection of clinical data and public health advocacy.Keywords: 
 
 #HealthTech #SurvivalAnalysis #FinancialToxicity #PredictiveModeling
+
+
+
+Reference
+Dataset: Kanyongo, Wellington; Moyo, Tsitsi; Ezugwu, Absalom El-Shamir ; Dombeu, Jean Vincent Fonou (2024),
+“Dataset for analysing medication adherence among diabetes and hypertension patients: Patient-level
+and medication refill data”, Mendeley Data, V2, doi: 10.17632/zkp7sbbx64.2.
